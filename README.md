@@ -13,7 +13,7 @@ Take in a TGF file and analyze stuff. The format is:
 4 description not mandatory
 
 # blank lines are fine, now are edges
-[origin] [destination] [weight] [description]
+[origin] [destination] [weight (not mandatory)] [description]
 2 3 1 I don't remember what happens when weight are not included for all edges
 ```
 
